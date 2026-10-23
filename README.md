@@ -46,4 +46,4 @@ Quantitative models for ALM & Treasury: prepayment (CPR), non-maturity deposits 
 
 ### 📫 Contact
 
-📍 Rome, Italy · feel free to reach out about research collaborations or quant roles.
+[LinkedIn](https://www.linkedin.com/in/emanuelemigliaccio/) · 📍 Rome, Italy · feel free to reach out about research collaborations or quant roles.
